@@ -1,1 +1,1 @@
-# -Incident-handler-s-journal-Scenario
+# Incident-handler-s-journal-Scenario
